@@ -1,2 +1,10 @@
-﻿GIT // See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace MODUL7_KELOMPOK7
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            FilmFavorit_103022400123.ReadJSON();
+        }       
+    }
+}

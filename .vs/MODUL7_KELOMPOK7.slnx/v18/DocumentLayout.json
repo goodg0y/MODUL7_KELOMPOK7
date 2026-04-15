@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{C87A0ED9-7CAC-0A9C-8C0E-4BC3DBF7028C}|MODUL7_KELOMPOK7.csproj|d:\\modul7_kelompok7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C87A0ED9-7CAC-0A9C-8C0E-4BC3DBF7028C}|MODUL7_KELOMPOK7.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C87A0ED9-7CAC-0A9C-8C0E-4BC3DBF7028C}|MODUL7_KELOMPOK7.csproj|d:\\modul7_kelompok7\\filmfavorit_103022400123.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C87A0ED9-7CAC-0A9C-8C0E-4BC3DBF7028C}|MODUL7_KELOMPOK7.csproj|solutionrelative:filmfavorit_103022400123.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MODUL7_KELOMPOK7\\bin\\Debug\\net10.0\\jurnal7_1_103022400123.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\net10.0\\jurnal7_1_103022400123.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +22,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 172,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "jurnal7_1_103022400123.json",
+              "DocumentMoniker": "D:\\MODUL7_KELOMPOK7\\bin\\Debug\\net10.0\\jurnal7_1_103022400123.json",
+              "RelativeDocumentMoniker": "bin\\Debug\\net10.0\\jurnal7_1_103022400123.json",
+              "ToolTip": "D:\\MODUL7_KELOMPOK7\\bin\\Debug\\net10.0\\jurnal7_1_103022400123.json",
+              "RelativeToolTip": "bin\\Debug\\net10.0\\jurnal7_1_103022400123.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-15T00:05:52.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FilmFavorit_103022400123.cs",
+              "DocumentMoniker": "D:\\MODUL7_KELOMPOK7\\FilmFavorit_103022400123.cs",
+              "RelativeDocumentMoniker": "FilmFavorit_103022400123.cs",
+              "ToolTip": "D:\\MODUL7_KELOMPOK7\\FilmFavorit_103022400123.cs",
+              "RelativeToolTip": "FilmFavorit_103022400123.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T00:04:54.234Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +62,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\MODUL7_KELOMPOK7\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-14T23:50:17.474Z",
               "EditorCaption": ""
